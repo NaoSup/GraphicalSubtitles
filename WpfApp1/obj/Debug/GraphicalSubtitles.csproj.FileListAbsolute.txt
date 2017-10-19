@@ -1,0 +1,15 @@
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\GraphicalSubtitles.csprojResolveAssemblyReference.cache
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\GraphicalSubtitles.csproj.GenerateResource.Cache
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\GraphicalSubtitles.csproj.CoreCompileInputs.cache
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
