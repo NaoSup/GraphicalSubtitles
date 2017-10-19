@@ -1,0 +1,10 @@
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\SubtitlesGraphique\SubtitlesGraphique\bin\Debug\SubtitlesGraphique.exe.config
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\SubtitlesGraphique\SubtitlesGraphique\bin\Debug\SubtitlesGraphique.exe
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\SubtitlesGraphique\SubtitlesGraphique\bin\Debug\SubtitlesGraphique.pdb
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\SubtitlesGraphique\SubtitlesGraphique\obj\Debug\SubtitlesGraphique.csprojResolveAssemblyReference.cache
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\SubtitlesGraphique\SubtitlesGraphique\obj\Debug\SubtitlesGraphique.Form1.resources
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\SubtitlesGraphique\SubtitlesGraphique\obj\Debug\SubtitlesGraphique.Properties.Resources.resources
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\SubtitlesGraphique\SubtitlesGraphique\obj\Debug\SubtitlesGraphique.csproj.GenerateResource.Cache
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\SubtitlesGraphique\SubtitlesGraphique\obj\Debug\SubtitlesGraphique.csproj.CoreCompileInputs.cache
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\SubtitlesGraphique\SubtitlesGraphique\obj\Debug\SubtitlesGraphique.exe
+C:\Users\npaul\Documents\Ingesup\CoursB2\Langage Objet\Projets\SubtitlesGraphique\SubtitlesGraphique\obj\Debug\SubtitlesGraphique.pdb
